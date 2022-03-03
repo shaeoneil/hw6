@@ -6,3 +6,9 @@ h1{
     color: brown;
     font-style: italic;
 }
+
+/*Class*/
+.error {
+    color: red;
+    font-weight: bold;
+}
