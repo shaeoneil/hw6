@@ -56,3 +56,29 @@ html {
     font-weight: bold;
     font-size: 3rem;
   }
+
+  table {
+    border-collapse: collapse;
+    color: black;
+  }
+  
+  th.year {
+    text-align: center;
+    background-color: #AC785F;
+    padding: 5px;
+    border: none;
+  }
+  
+  th.course {
+    text-align: right;
+    background-color: #AC785F;
+    padding: 5px;
+    border: none;
+  }
+
+  td {
+    padding: 5px 5px 5px 5px;
+    vertical-align: middle;
+    text-align: center;
+    border: 1px solid black;
+  }
