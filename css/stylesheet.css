@@ -7,19 +7,25 @@ html {
   }
   
   body {
-    background-color: #c4d6ea;
+    background-color: #FFF6F0;
     margin: 25px;
   }
   
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+  }
   /* unvisited link */
   a:link {
-    color: red;
+    color: #AB917E;
     text-decoration: none;
   }
   
   /* visited link */
   a:visited {
-    color: green;
+    color: #AB917E;
     text-decoration: none;
   }
   
@@ -31,10 +37,13 @@ html {
   }
   
   h1 {
-    color: blue;
+    color: #6DA6AB;
     font-style: italic;
   }
-  
+  h3 {
+    color: #6DA6AB;
+    font-style: italic;
+  }
   /* CSS classes */
   .error {
     color: darkred;
