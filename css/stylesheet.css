@@ -19,7 +19,7 @@ html {
   }
   /* unvisited link */
   a:link {
-    color: #AB917E;
+    color: #6DAB93;
     text-decoration: none;
   }
   
@@ -31,8 +31,8 @@ html {
   
   /* mouse over link */
   a:hover {
-    color: hotpink;
-    background-color: blueviolet;
+    color:#F7DCD0 ;
+    background-color: #FFF5F0;
     border: 1px black dashed;
   }
   
